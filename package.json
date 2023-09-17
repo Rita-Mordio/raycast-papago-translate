@@ -83,7 +83,7 @@
       "name": "index",
       "title": "Papago",
       "subtitle": "파파고",
-      "description": "Translated using Papago",
+      "description": "Papago Translate extension for Raycast",
       "mode": "view",
       "arguments": [
         {

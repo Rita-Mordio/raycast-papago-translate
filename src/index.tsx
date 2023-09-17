@@ -75,7 +75,7 @@ const PapagoTranslate = (props: LaunchProps<{ arguments: { initializeText: strin
             detail={<List.Item.Detail markdown={JSON.parse(value).translatedText} />}
             actions={
               <ActionPanel>
-                <Action.CopyToClipboard title="Copy Translated Text" content={JSON.parse(value).translatedText} />
+                <Action.CopyToClipboard title="Copy Translated Text to Clipboard" content={JSON.parse(value).translatedText} />
                 <Action title="Remove All History" onAction={clearHistory} icon={Icon.Trash} />
                 <Action title="Setting" onAction={openExtensionPreferences} icon={Icon.Gear} />
               </ActionPanel>

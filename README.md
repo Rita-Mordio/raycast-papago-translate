@@ -1,5 +1,9 @@
-- [English manual](#Naver-Papago-translate-extension-for-Raycast)
-- [한글 설명서](#Raycast-파파고-확장-프로그램)
+### [English manual](#Naver-Papago-translate-extension-for-Raycast)
+### [한글 설명서](#Raycast-파파고-확장-프로그램)
+------------------
+
+<br /><br />
+
 
 # Naver Papago translate extension for Raycast
 ---
@@ -31,9 +35,7 @@ Korean, English, Japanese
 ---
 [Rita Mordio](https://github.com/Rita-Mordio)
 
-
-<br /><br /><br />
-
+<br /><br />
 
 # Raycast 파파고 확장 프로그램
 ---
